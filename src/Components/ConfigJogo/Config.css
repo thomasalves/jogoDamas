@@ -1,0 +1,29 @@
+.card {
+    background-color: #e1e1e1;
+    width: 100%;
+    height: 46vh;
+    box-shadow: 1px 1px 10px 5px #a1a1a1;
+
+    padding: 5px;
+}
+
+.card h1 {
+    margin: 20px;
+}
+
+.jogadorAlpha, .jogadorBeta {
+    margin: 20px;
+    
+}
+
+.form {
+    margin: 30px;
+    font-size: 1em;
+    font-weight:normal;
+    letter-spacing: 1px
+}
+
+.form input {
+    margin-left: 40px;
+}
+

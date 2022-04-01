@@ -1,0 +1,38 @@
+
+.tabuleiro{
+	margin: 20px auto;
+	border-collapse: collapse;
+	box-shadow: 3px 3px 5px #000;
+	background-color: #e2d9d9;
+    width: 66%;
+    box-shadow: 5px 5px 5px 2px gray;
+    padding: 20px;
+}
+table tr td{
+	width:55px;
+	height:55px;
+	border:2px solid #5F5D5D;	
+	background:white;
+    text-align:center;
+}
+
+.colored {
+    background-color: #7f6000
+}
+
+.cardTabuleiro {
+	height: auto;
+	text-align:center;
+	margin: 0px ;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.cardTabuleiro h2 {
+	font-size: 1.4em;
+	font-weight: normal;
+
+
+}

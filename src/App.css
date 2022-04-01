@@ -1,0 +1,25 @@
+.App {
+    display: flex;
+    justify-content:space-around;
+    background-color: white;
+    height: 100vh;
+
+}
+
+.App .main {
+    background-color: #e1e1e1;
+    width: 66vw;
+    display: flex;
+    justify-content:center;
+    align-content:center;
+    box-shadow: 1px 1px 10px 5px #a1a1a1;
+    margin: 10px;
+
+}
+
+.App aside {
+    width: 33vw;
+    margin-right: 30px;
+    padding: 10px;
+    
+}

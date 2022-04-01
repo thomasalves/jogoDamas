@@ -1,0 +1,19 @@
+.pecas {
+    width:50px;
+	height:50px;
+	border-radius:100%;
+	display:block;
+	margin:auto;
+	box-shadow: 0px 3px 5px #000 ;
+	border:2px solid #fff;
+	text-align: center;
+}
+
+/* #alpha {
+	background-color: black;
+}
+
+#beta {
+	background-color: red;
+
+} */
